@@ -5,6 +5,8 @@
 
 # digital garden
 
+Esto sería la manera mas fácil de generar documentación para aplicativos que estas desarrollando.
+
 Comenzamos descargando el plugin[^1], entrando en la documentación nos manda a un repositorio[^2], del cual creamos una bifurcación.
 
 Una ves copiado el repositorio[^3], seguimos la configuración del repositorio del plugin[^2]
