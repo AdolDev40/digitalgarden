@@ -9,21 +9,11 @@ Compartir mi localhost para mostrar la aplicación y que estén probándolo.
 
 ## Requisitos previos
 
-- Dominio registrado (Hostinger en este caso).
+- Dominio registrado (no es necesario para el túnel simple).
 - Cuenta gratuita en Cloudflare.
 - `cloudflared` instalado en la máquina local (Windows).
 	- esto se realiza por [[uniget\|uniget]]
 	- o realizando el siguiente comando en la terminal: `winget install --id Cloudflare.cloudflared`[^1]
-
-## Configuración del Dominio
-
-Para que Cloudflare gestione los certificados SSL y el enrutamiento, debe ser la autoridad DNS.
-
-1. **En Cloudflare:** Añadir el sitio (ej. `midominio.com`) seleccionando el Plan Gratuito.
-    
-2. **En el Registrador de Dominio:** Cambiar los _Nameservers_ actuales por los dos proporcionados por Cloudflare.
-    
-3. **Estado:** Esperar a que el dominio aparezca como **"Active"** en el panel de Cloudflare.
 
 ## Túnel simple
 
@@ -37,6 +27,14 @@ cloudflared tunnel --url http://localhost
 ![Pasted image 20251208175341.png](/img/user/ANEXO/Pasted%20image%2020251208175341.png)
 
 ![Pasted image 20251208175442.png](/img/user/ANEXO/Pasted%20image%2020251208175442.png)
+
+## Configuración del Dominio
+
+Para que Cloudflare gestione los certificados SSL y el enrutamiento, debe ser la autoridad DNS.
+
+1. **En Cloudflare:** Añadir el sitio (ej. `midominio.com`) seleccionando el Plan Gratuito.
+2. **En el Registrador de Dominio:** Cambiar los _Nameservers_ actuales por los dos proporcionados por Cloudflare.
+3. **Estado:** Esperar a que el dominio aparezca como **"Active"** en el panel de Cloudflare.
 
 ## Creación del Túnel (Named Tunnel)
 
