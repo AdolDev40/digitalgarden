@@ -9,6 +9,7 @@
 - [ ] [[APUNTES/configuración vps con Dokploy\|configuración vps con Dokploy]]
 - [ ] [[APUNTES/digital garden\|digital garden]]
 - [ ] [[APUNTES/configuración de cloudflared tunnel\|configuración de cloudflared tunnel]]
+- [ ] [[APUNTES/redes de computadoras\|redes de computadoras]]
 
 
 ## documentación de comandos útiles

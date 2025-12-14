@@ -14,7 +14,7 @@ Esta es la ubicación física del centro de datos donde se alojará tu servidor.
 - **Selección:** Elige la región que sea más conveniente para ti o para tu público objetivo.
     - **Configuración:** En la imagen se muestra seleccionada **San Francisco**.
 
-![Pasted image 20251205173103.png](/img/user/ANEXO/Pasted%20image%2020251205173103.png)
+![Pasted image 20251205173103.png](/img/user/ANEXO/PNG/Pasted%20image%2020251205173103.png)
 
 ### 2. Elige la Imagen (Sistema Operativo) 
 
@@ -23,7 +23,7 @@ El sistema operativo recomendado es Ubuntu LTS, ya que es el estándar de la ind
 - **Selección:** En la sección "Elige una imagen", selecciona la pestaña **"Ubuntu"**.
     - **Versión:** Elige la versión de **LTS (Long-Term Support)** más reciente, como **22.04 (LTS) x64**.
 
-![Pasted image 20251205173126.png](/img/user/ANEXO/Pasted%20image%2020251205173126.png)
+![Pasted image 20251205173126.png](/img/user/ANEXO/PNG/Pasted%20image%2020251205173126.png)
 
 ### 3. Selecciona el Tipo de Gotita (Plan)
 
@@ -33,7 +33,7 @@ Aquí eliges los recursos de CPU y memoria (RAM) que necesita tu servidor.
 - **Recursos:** Selecciona el plan de **$12/mes**, que te ofrece **2 GB de RAM / 1 CPU**.
     - _Justificación:_ Los **2 GB de RAM** son necesarios para manejar la carga de **Docker** y **Dokploy**.
 
-![Pasted image 20251205173144.png](/img/user/ANEXO/Pasted%20image%2020251205173144.png)
+![Pasted image 20251205173144.png](/img/user/ANEXO/PNG/Pasted%20image%2020251205173144.png)
 
 ### 4. Elige el Método de Autenticación (SSH Llave)
 
@@ -41,7 +41,7 @@ La autenticación por clave SSH es el método más seguro, como lo confirmamos a
 
 - **Opción:** En la sección "Elija el método de autenticación", selecciona el botón **"SSH Llave"**.
 
-![Pasted image 20251205173201.png](/img/user/ANEXO/Pasted%20image%2020251205173201.png)
+![Pasted image 20251205173201.png](/img/user/ANEXO/PNG/Pasted%20image%2020251205173201.png)
 
 ### 5. Añade la Clave Pública SSH
 
@@ -53,7 +53,7 @@ Este paso vincula tu Droplet a la clave privada que generaste en tu computadora 
     - Dale un **(2) "Nombre"** fácil de recordar (ej: "MiLaptopDeTrabajo").
 3. Haz clic en **"Add SSH Key"**.
 
-![Pasted image 20251205173900.png](/img/user/ANEXO/Pasted%20image%2020251205173900.png)
+![Pasted image 20251205173900.png](/img/user/ANEXO/PNG/Pasted%20image%2020251205173900.png)
 
 ### 6. Finaliza la Creación
 
@@ -65,7 +65,7 @@ Este paso vincula tu Droplet a la clave privada que generaste en tu computadora 
 1. Configuramos la ip por la cual nos vamos a conectar
 2. En la sección de networking es la configuración de esto
 
-![unnamed.png](/img/user/ANEXO/unnamed.png)
+![unnamed.png](/img/user/ANEXO/PNG/unnamed.png)
 
 ---
 

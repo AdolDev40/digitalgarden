@@ -24,9 +24,9 @@ cloudflared tunnel --url http://localhost
 > [!NOTE] 
 > cloudflare asignara un dominio aleatorio a tu localhost el cual puedes compartir
 
-![Pasted image 20251208175341.png](/img/user/ANEXO/Pasted%20image%2020251208175341.png)
+![Pasted image 20251208175341.png](/img/user/ANEXO/PNG/Pasted%20image%2020251208175341.png)
 
-![Pasted image 20251208175442.png](/img/user/ANEXO/Pasted%20image%2020251208175442.png)
+![Pasted image 20251208175442.png](/img/user/ANEXO/PNG/Pasted%20image%2020251208175442.png)
 
 ## Configuración del Dominio
 
@@ -82,9 +82,9 @@ cloudflared tunnel run --url http://localhost mi-servidor-dev
 > [!NOTE] 
 > Esto comparte el localhost al dominio o subdominio configurado
 
-![Pasted image 20251208175640.png](/img/user/ANEXO/Pasted%20image%2020251208175640.png)
+![Pasted image 20251208175640.png](/img/user/ANEXO/PNG/Pasted%20image%2020251208175640.png)
 
-![Pasted image 20251208175738.png](/img/user/ANEXO/Pasted%20image%2020251208175738.png)
+![Pasted image 20251208175738.png](/img/user/ANEXO/PNG/Pasted%20image%2020251208175738.png)
 
 ## Referencias
 
