@@ -9,12 +9,16 @@
 - [ ] [[APUNTES/configuración vps con Dokploy\|configuración vps con Dokploy]]
 - [ ] [[APUNTES/digital garden\|digital garden]]
 - [ ] [[APUNTES/configuración de cloudflared tunnel\|configuración de cloudflared tunnel]]
-- [ ] [[APUNTES/redes de computadoras\|redes de computadoras]]
 
 
 ## documentación de comandos útiles
 
 - [ ] [[APUNTES/git\|git]]
+
+
+## testeo de publicació
+
+- [ ] [[APUNTES/2025-12-14 referencias de digital garden del plugin de bases\|2025-12-14 referencias de digital garden del plugin de bases]]
 
 
 
