@@ -5,7 +5,7 @@
 
 ![[MOC.base]]
 
-# Conectar dokploy (cloud) a servidor local[^1]
+# Conectar dokploy (cloud) a servidor local [^1]
 
 lo vamos a realizar a traves de un vpn, con la herramienta tailscale
 
