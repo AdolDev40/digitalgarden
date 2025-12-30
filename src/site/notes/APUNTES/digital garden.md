@@ -5,7 +5,9 @@
 
 ![[MOC.base]]
 
-# digital garden[^5]
+# digital garden
+
+Este es mi jardín digital sobre [[APUNTES/obsidian\|obsidian]][^5].
 
 Esto sería la manera mas fácil de generar documentación para aplicativos que estas desarrollando.
 
@@ -52,4 +54,4 @@ validamos los dns, y ya tendremos subida la página web.
 
 [^4]: https://github.com/settings/personal-access-tokens/new
 
-[^5]: [[APUNTES/obsidian\|obsidian]]
+[^5]: Relacionado con obsidian
