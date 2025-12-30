@@ -5,7 +5,9 @@
 
 ![[MOC.base]]
 
-# Conectar dokploy (cloud) a servidor local [^1]
+# Conectar dokploy (cloud) a servidor local
+
+Esta guía explica cómo conectar Dokploy a un servidor local [^1].
 
 lo vamos a realizar a traves de un vpn, con la herramienta tailscale
 
