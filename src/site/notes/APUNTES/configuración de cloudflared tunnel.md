@@ -3,6 +3,8 @@
 ---
 
 
+![[MOC.base]]
+
 ## Objetivo
 
 Compartir mi localhost para mostrar la aplicación y que estén probándolo.

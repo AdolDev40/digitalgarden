@@ -3,6 +3,8 @@
 ---
 
 
+![[MOC.base]]
+
 # Configurar vps de digital ocean
 
 ## Guía Paso a Paso: Creación del Droplet de 2 GB
@@ -71,4 +73,4 @@ Este paso vincula tu Droplet a la clave privada que generaste en tu computadora 
 
 [[APUNTES/configuración obsoleta vps de digital ocean\|configuración obsoleta vps de digital ocean]]
 
-[[APUNTES/configuración vps con Dokploy\|configuración vps con Dokploy]]
+Lo siguiente a realizar sería una [[APUNTES/configuración vps con Dokploy\|configuración vps con Dokploy]]

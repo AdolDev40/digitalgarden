@@ -3,7 +3,9 @@
 ---
 
 
-# digital garden
+![[MOC.base]]
+
+# digital garden[^5]
 
 Esto sería la manera mas fácil de generar documentación para aplicativos que estas desarrollando.
 
@@ -40,7 +42,7 @@ validamos los dns, y ya tendremos subida la página web.
 
 ![Pasted image 20251207023014.png](/img/user/ANEXO/PNG/Pasted%20image%2020251207023014.png)
 
-# referencias
+---
 
 [^1]: [github - pligin digital garden](https://github.com/oleeskild/obsidian-digital-garden)
 
@@ -49,3 +51,5 @@ validamos los dns, y ya tendremos subida la página web.
 [^3]: [turepo]
 
 [^4]: https://github.com/settings/personal-access-tokens/new
+
+[^5]: [[APUNTES/obsidian\|obsidian]]

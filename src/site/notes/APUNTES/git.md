@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/apuntes/git/"}
+{"dg-publish":true,"permalink":"/apuntes/git/","tags":["referencias"]}
 ---
 
+
+![[MOC.base]]
 
 # git
 

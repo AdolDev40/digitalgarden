@@ -3,6 +3,8 @@
 ---
 
 
+![[MOC.base]]
+
 # Guía Completa: Configuración VPS con Dokploy
 
 ## 🖥️ Información del Servidor
@@ -109,11 +111,11 @@ Abre tu navegador y ve a: `http://[IP_DEL_SERVIDOR]:3000`
 
 Ve al panel de administración de tu dominio (ej. DigitalOcean, Namecheap, Cloudflare) y configura:
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|**Tipo**|**Hostname**|**Valor**|**TTL**|**Descripción**|
-|**A**|`dokploy`|`[IP_DEL_SERVIDOR]`|3600|Apunta al Panel de Dokploy|
-|**A**|`@`|`[IP_DEL_SERVIDOR]`|3600|Raíz del dominio (opcional)|
+|          |              |                     |         |                             |
+| -------- | ------------ | ------------------- | ------- | --------------------------- |
+| **Tipo** | **Hostname** | **Valor**           | **TTL** | **Descripción**             |
+| **A**    | `dokploy`    | `[IP_DEL_SERVIDOR]` | 3600    | Apunta al Panel de Dokploy  |
+| **A**    | `@`          | `[IP_DEL_SERVIDOR]` | 3600    | Raíz del dominio (opcional) |
 
 **Explicación:**
 
@@ -187,3 +189,7 @@ Después de 2-3 minutos, accede a:
 - ✅ Certificado válido emitido por "Let's Encrypt".
 - ✅ Redirección automática de HTTP a HTTPS.
 - ✅ Ya no es necesario usar el puerto `:3000`.
+
+---
+
+Lo siguiente sería configurar [[APUNTES/tailscale\|tailscale]] para [[APUNTES/conectar dokploy (cloud) a servidor local\|conectar dokploy (cloud) a servidor local]]
