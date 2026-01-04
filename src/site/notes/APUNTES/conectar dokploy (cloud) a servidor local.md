@@ -36,7 +36,7 @@ tailscale ip -4
 
 ## **ahora En dokploy con la clave ssh:**
 
-![Pasted image 20251230102514.png](/img/user/ANEXO/Pasted%20image%2020251230102514.png)
+![Pasted image 20251230102514.png](/img/user/ANEXO/PNG/Pasted%20image%2020251230102514.png)
 
 1. En el sidebard vamos hacia ssh keys
 2. Luego agregamos la clave
@@ -44,7 +44,7 @@ tailscale ip -4
 
 ---
 
-![Pasted image 20251230102804.png](/img/user/ANEXO/Pasted%20image%2020251230102804.png)
+![Pasted image 20251230102804.png](/img/user/ANEXO/PNG/Pasted%20image%2020251230102804.png)
 
 genera las claves y copiamos la clave publica
 
@@ -93,7 +93,7 @@ sudo ufw enable
 
 ## **siguiendo Con la configuración y finalizando:**
 
-![Pasted image 20251230104337.png](/img/user/ANEXO/Pasted%20image%2020251230104337.png)
+![Pasted image 20251230104337.png](/img/user/ANEXO/PNG/Pasted%20image%2020251230104337.png)
 
 1. configuramos la ip del servidor
 2. Y el nombre de usuario, el usuario del servidor local
@@ -104,13 +104,13 @@ sudo ufw enable
 > tailscale ip -4 # con este comando puedes ver la ip
 > ```
 
-![Pasted image 20251230105520.png](/img/user/ANEXO/Pasted%20image%2020251230105520.png)
+![Pasted image 20251230105520.png](/img/user/ANEXO/PNG/Pasted%20image%2020251230105520.png)
 
 De funionar puedes entrar tranquilamente a la terminal
 
 ---
 
-![Pasted image 20251230105448.png](/img/user/ANEXO/Pasted%20image%2020251230105448.png)
+![Pasted image 20251230105448.png](/img/user/ANEXO/PNG/Pasted%20image%2020251230105448.png)
 
 Y fácilmente se conectara
 
