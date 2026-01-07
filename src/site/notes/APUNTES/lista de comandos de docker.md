@@ -2,9 +2,12 @@
 {"dg-publish":true,"permalink":"/apuntes/lista-de-comandos-de-docker/","tags":["referencias","listas"]}
 ---
 
+
 ![[MOC.base]]
 
-# 2025-12-23 lista de comandos de docker[^1]
+# 2025-12-23 lista de comandos de docker
+
+lista de comandos[^1]
 
 1. Para iniciar los servicios en modo separado: `docker-compose up -d`
 2. Para iniciar los servicios y ver los registros: `docker-compose up`
