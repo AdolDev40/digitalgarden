@@ -5,6 +5,12 @@
 
 ![[MOC.base]]
 
+---
+
+Antes de comenzar se tiene que realizar una [[APUNTES/instalación del tunnel cloudflared\|instalación del tunnel cloudflared]]
+
+---
+
 ## Objetivo
 
 Compartir mi localhost para mostrar la aplicación y que estén probándolo.
